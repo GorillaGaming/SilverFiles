@@ -6,3 +6,5 @@
 e69f62fc-f830-4f97-befa-6d88f738e11a https://github.com/GorillaGaming/SilverFiles/raw/main/Silvercape.png
 #imverynoob687
 15b6e766-0082-41a3-baa6-c5411cfe5377 https://github.com/GorillaGaming/SilverFiles/raw/main/Silversquad.png
+#
+13ef69ce-7373-44b5-9aa6-1bbc31b5ab0f https://github.com/GorillaGaming/SilverFiles/raw/main/Silversquad.png
