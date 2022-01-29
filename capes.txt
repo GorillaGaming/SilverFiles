@@ -1,6 +1,6 @@
-silvercape1 https://github.com/GorillaGaming/SilverFiles/blob/main/KumarCape2.png
-silvercape2 https://github.com/GorillaGaming/SilverFiles/blob/main/Silversquad.png
-silvercape3 https://github.com/GorillaGaming/SilverFiles/blob/main/warningcape.gif
-silvercape4 https://github.com/GorillaGaming/SilverFiles/blob/main/teamcape.png
-silvercape5 https://github.com/GorillaGaming/SilverFiles/blob/main/hienoon.gif
-silvercape6 https://github.com/GorillaGaming/SilverFiles/blob/main/Silvercape.png
+silvercape1 https://raw.githubusercontent.com/GorillaGaming/SilverFiles/main/KumarCape2.png
+silvercape2 https://raw.githubusercontent.com/GorillaGaming/SilverFiles/main/Silversquad.png
+silvercape3 https://raw.githubusercontent.com/GorillaGaming/SilverFiles/main/warningcape.gif
+silvercape4 https://raw.githubusercontent.com/GorillaGaming/SilverFiles/main/teamcape.png
+silvercape5 https://raw.githubusercontent.com/GorillaGaming/SilverFiles/main/hienoon.gif
+silvercape6 https://raw.githubusercontent.com/GorillaGaming/SilverFiles/main/Silvercape.png
