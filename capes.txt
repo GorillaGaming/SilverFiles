@@ -4,3 +4,4 @@ silvercape3 https://raw.githubusercontent.com/GorillaGaming/SilverFiles/main/war
 silvercape4 https://raw.githubusercontent.com/GorillaGaming/SilverFiles/main/teamcape.png
 silvercape5 https://raw.githubusercontent.com/GorillaGaming/SilverFiles/main/hienoon.gif
 silvercape6 https://raw.githubusercontent.com/GorillaGaming/SilverFiles/main/Silvercape.png
+silvercape7 https://raw.githubusercontent.com/GorillaGaming/SilverFiles/main/silverbackpremium.png
