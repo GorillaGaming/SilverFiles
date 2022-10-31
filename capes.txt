@@ -6,3 +6,4 @@ silvercape5 https://raw.githubusercontent.com/GorillaGaming/SilverFiles/main/hie
 silvercape6 https://raw.githubusercontent.com/GorillaGaming/SilverFiles/main/Silvercape.png
 silvercape7 https://raw.githubusercontent.com/GorillaGaming/SilverFiles/main/silverbackpremium.png
 silvercape8 https://raw.githubusercontent.com/GorillaGaming/SilverFiles/main/idontknow.png
+silvercape9 https://raw.githubusercontent.com/GorillaGaming/SilverFiles/main/new.png
